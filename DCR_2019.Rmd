@@ -211,7 +211,7 @@ carcass_calculator_data_100_pounds <- carcass_calculator_data_100_pounds %>%
 ## The Data
 
 
-The enviornmental impact for 100 pounds of each of the following cuts: 
+The environmental impact for 100 pounds of each of the following cuts: 
 
 
 ```{r, echo = FALSE}
